@@ -1,5 +1,521 @@
-Sales Rep,Restaurant,Sales Date,Product Name,Product Family,Quantity,Price
-John,Bella Italia,2025-05-01,Frozen Mozzarella,Dairy,20,10
-John,Bella Italia,2025-06-01,Frozen Mozzarella,Dairy,8,10
-Mary,Spicy House,2025-06-01,Frozen Peas,Vegetables,51,5
-Mary,Spicy House,2025-05-01,Frozen Peas,Vegetables,50,5
+Sales Rep	Restaurant	Sales Date	Product Name	Product Family	Quantity	Price
+Bob	Sushi Central	2023-10-11	Frozen Peas	Vegetables	72	17.52
+Bob	Burger Barn	2024-03-07	Frozen French Fries	Snacks	75	36.89
+Alice	Burger Barn	2023-01-21	Frozen Mozzarella	Dairy	40	43.71
+Alice	Pizza Planet	2023-06-21	Frozen Berries	Fruits	96	7.37
+Diana	Pasta Palace	2023-10-12	Frozen Beef Patty	Meat	78	49.39
+Alice	Curry Corner	2024-05-15	Frozen Mozzarella	Dairy	69	6.8
+Bob	Curry Corner	2023-12-12	Frozen Chicken Wings	Meat	57	43.46
+Bob	Pizza Planet	2023-04-09	Frozen Broccoli	Vegetables	12	10.78
+Carlos	Burger Barn	2023-06-16	Frozen Broccoli	Vegetables	33	44.67
+Alice	Pasta Palace	2024-04-15	Frozen Beef Patty	Meat	63	12.83
+Alice	Curry Corner	2023-07-20	Frozen Chicken Wings	Meat	64	46.14
+Bob	Curry Corner	2023-08-21	Frozen Berries	Fruits	10	15.39
+Diana	Curry Corner	2023-04-06	Frozen Chicken Wings	Meat	34	49.73
+Carlos	Pizza Planet	2024-03-31	Frozen Peas	Vegetables	51	42.92
+Carlos	Curry Corner	2023-10-22	Frozen French Fries	Snacks	34	40.92
+Bob	Burger Barn	2023-08-04	Frozen Mozzarella	Dairy	49	9.13
+Bob	Sushi Central	2023-12-06	Frozen Berries	Fruits	85	29.13
+Alice	Curry Corner	2024-02-04	Frozen Berries	Fruits	39	33.12
+Bob	Curry Corner	2023-12-07	Frozen Chicken Wings	Meat	58	49.74
+Bob	Curry Corner	2024-04-04	Frozen Mozzarella	Dairy	44	12.49
+Carlos	Burger Barn	2023-11-27	Frozen Peas	Vegetables	60	32.0
+Carlos	Pasta Palace	2023-11-23	Frozen Chicken Wings	Meat	32	39.27
+Alice	Curry Corner	2024-06-17	Frozen Beef Patty	Meat	14	10.8
+Carlos	Burger Barn	2024-01-05	Frozen Berries	Fruits	33	46.86
+Bob	Pizza Planet	2024-05-11	Frozen Broccoli	Vegetables	37	41.44
+Carlos	Pasta Palace	2023-01-14	Frozen Chicken Wings	Meat	75	49.94
+Bob	Sushi Central	2023-07-29	Frozen Beef Patty	Meat	20	33.68
+Carlos	Pizza Planet	2023-05-31	Frozen Berries	Fruits	7	14.78
+Alice	Curry Corner	2024-04-10	Frozen Mozzarella	Dairy	82	38.42
+Diana	Sushi Central	2023-07-17	Frozen Berries	Fruits	3	20.94
+Diana	Pasta Palace	2023-03-29	Frozen Broccoli	Vegetables	84	18.89
+Bob	Burger Barn	2023-10-24	Frozen Mozzarella	Dairy	47	26.76
+Alice	Sushi Central	2024-02-01	Frozen French Fries	Snacks	23	38.12
+Alice	Pizza Planet	2023-01-02	Frozen Mozzarella	Dairy	21	9.21
+Diana	Pizza Planet	2023-03-23	Frozen Beef Patty	Meat	49	10.48
+Bob	Sushi Central	2024-03-05	Frozen Beef Patty	Meat	42	43.5
+Diana	Curry Corner	2023-09-22	Frozen Chicken Wings	Meat	43	29.7
+Diana	Sushi Central	2023-09-11	Frozen Broccoli	Vegetables	49	31.11
+Bob	Pasta Palace	2023-03-09	Frozen Chicken Wings	Meat	78	25.32
+Carlos	Pizza Planet	2023-02-06	Frozen Berries	Fruits	18	5.57
+Alice	Sushi Central	2024-03-20	Frozen Mozzarella	Dairy	23	9.79
+Carlos	Curry Corner	2024-05-21	Frozen Berries	Fruits	96	12.49
+Diana	Sushi Central	2023-02-08	Frozen Broccoli	Vegetables	90	22.19
+Bob	Burger Barn	2023-03-12	Frozen Peas	Vegetables	10	28.25
+Carlos	Burger Barn	2023-06-08	Frozen Beef Patty	Meat	82	39.66
+Alice	Burger Barn	2024-02-18	Frozen Chicken Wings	Meat	88	6.49
+Alice	Burger Barn	2023-10-07	Frozen French Fries	Snacks	7	43.71
+Diana	Pizza Planet	2023-09-03	Frozen Broccoli	Vegetables	78	6.79
+Alice	Sushi Central	2024-02-23	Frozen Broccoli	Vegetables	15	26.03
+Bob	Sushi Central	2024-05-06	Frozen Mozzarella	Dairy	85	43.82
+Carlos	Burger Barn	2023-12-09	Frozen Berries	Fruits	81	30.69
+Bob	Sushi Central	2024-02-25	Frozen Salmon	Seafood	81	27.61
+Carlos	Pizza Planet	2024-03-21	Frozen Salmon	Seafood	38	46.49
+Carlos	Sushi Central	2023-05-13	Frozen French Fries	Snacks	93	7.1
+Diana	Pizza Planet	2023-10-02	Frozen Chicken Wings	Meat	85	47.65
+Alice	Burger Barn	2023-04-16	Frozen Berries	Fruits	30	11.68
+Alice	Burger Barn	2023-08-14	Frozen Beef Patty	Meat	71	48.86
+Alice	Burger Barn	2023-07-13	Frozen Peas	Vegetables	23	42.82
+Bob	Curry Corner	2023-06-19	Frozen Beef Patty	Meat	43	37.93
+Diana	Sushi Central	2024-03-14	Frozen Chicken Wings	Meat	30	18.32
+Bob	Curry Corner	2023-07-24	Frozen Salmon	Seafood	33	41.75
+Bob	Sushi Central	2023-08-01	Frozen Beef Patty	Meat	60	35.63
+Diana	Curry Corner	2024-02-27	Frozen Peas	Vegetables	98	37.74
+Alice	Pizza Planet	2023-04-06	Frozen Broccoli	Vegetables	21	17.69
+Carlos	Curry Corner	2023-11-23	Frozen Broccoli	Vegetables	32	12.43
+Alice	Sushi Central	2024-06-13	Frozen Broccoli	Vegetables	64	48.67
+Carlos	Curry Corner	2023-09-05	Frozen Broccoli	Vegetables	95	12.01
+Carlos	Curry Corner	2023-09-21	Frozen Peas	Vegetables	43	26.84
+Diana	Sushi Central	2023-02-28	Frozen Salmon	Seafood	7	15.29
+Bob	Pizza Planet	2023-06-07	Frozen Salmon	Seafood	56	6.55
+Carlos	Curry Corner	2023-06-16	Frozen Mozzarella	Dairy	78	35.52
+Carlos	Curry Corner	2023-02-01	Frozen French Fries	Snacks	64	30.69
+Alice	Pasta Palace	2023-12-07	Frozen French Fries	Snacks	63	10.55
+Carlos	Pizza Planet	2024-02-04	Frozen Salmon	Seafood	59	5.51
+Carlos	Sushi Central	2023-08-09	Frozen Peas	Vegetables	93	13.63
+Alice	Pizza Planet	2023-01-04	Frozen Mozzarella	Dairy	39	27.3
+Bob	Curry Corner	2023-07-25	Frozen Broccoli	Vegetables	14	30.41
+Bob	Pasta Palace	2023-10-26	Frozen Chicken Wings	Meat	76	11.14
+Alice	Pizza Planet	2024-01-19	Frozen French Fries	Snacks	11	11.98
+Carlos	Pasta Palace	2024-05-31	Frozen Berries	Fruits	63	35.06
+Alice	Sushi Central	2023-11-07	Frozen Chicken Wings	Meat	24	15.23
+Carlos	Pizza Planet	2024-04-18	Frozen Salmon	Seafood	34	41.56
+Carlos	Burger Barn	2023-03-15	Frozen Salmon	Seafood	28	13.07
+Diana	Pasta Palace	2024-05-13	Frozen Broccoli	Vegetables	59	30.55
+Carlos	Pizza Planet	2023-08-03	Frozen Broccoli	Vegetables	84	10.88
+Bob	Sushi Central	2023-02-27	Frozen Broccoli	Vegetables	38	10.12
+Bob	Curry Corner	2023-05-12	Frozen French Fries	Snacks	52	41.56
+Bob	Sushi Central	2023-08-17	Frozen Broccoli	Vegetables	86	24.82
+Diana	Pasta Palace	2023-11-10	Frozen Broccoli	Vegetables	92	33.16
+Bob	Curry Corner	2024-04-19	Frozen French Fries	Snacks	38	12.02
+Alice	Pizza Planet	2023-04-10	Frozen Berries	Fruits	27	42.66
+Diana	Pasta Palace	2024-01-05	Frozen Broccoli	Vegetables	80	29.46
+Diana	Pasta Palace	2023-04-24	Frozen Berries	Fruits	61	36.45
+Bob	Sushi Central	2023-05-19	Frozen Berries	Fruits	47	31.98
+Bob	Pizza Planet	2024-03-03	Frozen Beef Patty	Meat	21	40.77
+Diana	Curry Corner	2023-06-26	Frozen Peas	Vegetables	96	18.29
+Bob	Pasta Palace	2023-10-04	Frozen French Fries	Snacks	17	20.79
+Alice	Curry Corner	2023-08-06	Frozen Broccoli	Vegetables	47	19.49
+Carlos	Pasta Palace	2024-03-15	Frozen Mozzarella	Dairy	20	19.4
+Bob	Sushi Central	2023-07-21	Frozen Beef Patty	Meat	75	35.15
+Diana	Sushi Central	2023-12-18	Frozen Berries	Fruits	74	31.98
+Carlos	Pizza Planet	2023-03-22	Frozen Beef Patty	Meat	15	12.46
+Bob	Pasta Palace	2023-12-11	Frozen Mozzarella	Dairy	66	9.48
+Alice	Curry Corner	2024-06-24	Frozen Mozzarella	Dairy	66	32.21
+Carlos	Burger Barn	2023-10-04	Frozen Broccoli	Vegetables	9	32.43
+Diana	Curry Corner	2023-04-09	Frozen Salmon	Seafood	57	38.05
+Alice	Sushi Central	2024-04-17	Frozen Berries	Fruits	1	18.87
+Carlos	Sushi Central	2023-10-22	Frozen Peas	Vegetables	43	36.02
+Alice	Burger Barn	2023-11-01	Frozen Salmon	Seafood	1	42.09
+Alice	Burger Barn	2024-01-04	Frozen Salmon	Seafood	68	40.75
+Bob	Burger Barn	2024-03-27	Frozen Mozzarella	Dairy	69	30.74
+Diana	Curry Corner	2024-02-25	Frozen Peas	Vegetables	9	35.47
+Carlos	Pasta Palace	2023-07-15	Frozen Berries	Fruits	26	23.41
+Bob	Sushi Central	2023-01-22	Frozen Berries	Fruits	100	22.73
+Carlos	Pizza Planet	2023-09-11	Frozen Salmon	Seafood	23	41.08
+Alice	Sushi Central	2023-04-16	Frozen Chicken Wings	Meat	77	6.41
+Bob	Pizza Planet	2023-03-14	Frozen Chicken Wings	Meat	100	27.7
+Diana	Pizza Planet	2023-11-29	Frozen Peas	Vegetables	34	43.84
+Bob	Pasta Palace	2024-02-14	Frozen Chicken Wings	Meat	86	42.1
+Bob	Pasta Palace	2024-06-22	Frozen Mozzarella	Dairy	77	26.61
+Bob	Pizza Planet	2023-12-26	Frozen French Fries	Snacks	30	25.89
+Carlos	Sushi Central	2023-07-20	Frozen Peas	Vegetables	86	48.65
+Carlos	Burger Barn	2023-03-03	Frozen Peas	Vegetables	28	17.19
+Bob	Curry Corner	2023-10-31	Frozen French Fries	Snacks	73	8.16
+Diana	Pasta Palace	2023-04-15	Frozen Peas	Vegetables	7	41.78
+Bob	Pizza Planet	2024-05-28	Frozen French Fries	Snacks	95	14.99
+Diana	Burger Barn	2023-12-10	Frozen Beef Patty	Meat	56	12.73
+Alice	Curry Corner	2024-01-01	Frozen Broccoli	Vegetables	59	32.13
+Diana	Sushi Central	2023-07-24	Frozen Beef Patty	Meat	1	12.05
+Bob	Burger Barn	2023-08-23	Frozen Salmon	Seafood	97	17.01
+Bob	Pasta Palace	2023-11-04	Frozen Salmon	Seafood	62	46.51
+Carlos	Burger Barn	2023-01-02	Frozen Salmon	Seafood	68	29.38
+Alice	Pizza Planet	2023-11-02	Frozen Beef Patty	Meat	53	31.45
+Alice	Pasta Palace	2024-01-01	Frozen Salmon	Seafood	58	14.37
+Alice	Curry Corner	2023-04-30	Frozen Peas	Vegetables	5	45.43
+Diana	Burger Barn	2023-10-29	Frozen Mozzarella	Dairy	96	31.48
+Alice	Sushi Central	2023-12-15	Frozen Chicken Wings	Meat	23	39.29
+Alice	Pasta Palace	2023-04-22	Frozen Salmon	Seafood	28	33.71
+Diana	Curry Corner	2023-09-16	Frozen Mozzarella	Dairy	84	24.56
+Carlos	Pizza Planet	2023-12-18	Frozen Peas	Vegetables	24	6.68
+Bob	Sushi Central	2024-02-06	Frozen Mozzarella	Dairy	93	48.53
+Alice	Pizza Planet	2023-06-30	Frozen Peas	Vegetables	7	45.52
+Bob	Pizza Planet	2024-04-28	Frozen Mozzarella	Dairy	88	24.17
+Alice	Burger Barn	2023-05-15	Frozen French Fries	Snacks	50	27.04
+Alice	Pizza Planet	2024-05-18	Frozen Beef Patty	Meat	47	42.93
+Alice	Sushi Central	2024-01-13	Frozen Beef Patty	Meat	98	14.56
+Diana	Curry Corner	2023-09-05	Frozen Broccoli	Vegetables	66	39.62
+Diana	Pasta Palace	2023-01-03	Frozen Beef Patty	Meat	39	25.99
+Carlos	Sushi Central	2023-12-09	Frozen French Fries	Snacks	97	43.92
+Bob	Pizza Planet	2024-01-02	Frozen French Fries	Snacks	33	30.46
+Bob	Sushi Central	2023-08-12	Frozen Peas	Vegetables	93	35.1
+Diana	Sushi Central	2023-01-31	Frozen Salmon	Seafood	63	12.19
+Diana	Burger Barn	2024-05-13	Frozen Beef Patty	Meat	84	38.83
+Alice	Burger Barn	2023-05-07	Frozen Broccoli	Vegetables	76	30.73
+Diana	Curry Corner	2023-08-05	Frozen Peas	Vegetables	3	39.06
+Bob	Pizza Planet	2024-02-10	Frozen Broccoli	Vegetables	100	37.71
+Carlos	Burger Barn	2023-10-03	Frozen Chicken Wings	Meat	93	23.92
+Carlos	Burger Barn	2024-04-02	Frozen Mozzarella	Dairy	81	11.15
+Bob	Pizza Planet	2023-09-02	Frozen Broccoli	Vegetables	33	9.86
+Alice	Sushi Central	2023-01-31	Frozen Mozzarella	Dairy	85	46.97
+Carlos	Sushi Central	2023-09-26	Frozen Mozzarella	Dairy	53	22.05
+Bob	Burger Barn	2023-08-04	Frozen Mozzarella	Dairy	13	47.96
+Alice	Burger Barn	2024-01-02	Frozen French Fries	Snacks	27	15.02
+Carlos	Sushi Central	2023-08-09	Frozen Mozzarella	Dairy	12	40.26
+Alice	Sushi Central	2023-05-03	Frozen Mozzarella	Dairy	23	31.61
+Diana	Pizza Planet	2023-07-22	Frozen Chicken Wings	Meat	36	27.29
+Diana	Sushi Central	2024-06-22	Frozen Berries	Fruits	14	5.09
+Bob	Pizza Planet	2023-06-07	Frozen Mozzarella	Dairy	50	14.04
+Diana	Pizza Planet	2024-05-30	Frozen Salmon	Seafood	75	40.47
+Diana	Pasta Palace	2023-09-20	Frozen Beef Patty	Meat	44	30.28
+Bob	Burger Barn	2023-05-28	Frozen Salmon	Seafood	28	48.15
+Bob	Burger Barn	2023-12-20	Frozen Mozzarella	Dairy	9	7.93
+Alice	Burger Barn	2023-04-09	Frozen Beef Patty	Meat	74	20.61
+Diana	Pizza Planet	2023-03-19	Frozen Beef Patty	Meat	25	49.37
+Alice	Pizza Planet	2023-12-31	Frozen Berries	Fruits	20	37.27
+Diana	Pasta Palace	2023-04-13	Frozen Beef Patty	Meat	64	28.35
+Alice	Pizza Planet	2024-02-07	Frozen Mozzarella	Dairy	61	42.23
+Diana	Burger Barn	2023-05-04	Frozen Chicken Wings	Meat	30	11.93
+Bob	Burger Barn	2023-12-20	Frozen Chicken Wings	Meat	33	9.19
+Alice	Curry Corner	2023-12-20	Frozen French Fries	Snacks	67	43.51
+Diana	Pasta Palace	2023-08-22	Frozen French Fries	Snacks	20	46.53
+Diana	Pizza Planet	2024-04-20	Frozen Berries	Fruits	71	28.41
+Carlos	Sushi Central	2023-07-27	Frozen Salmon	Seafood	52	30.76
+Carlos	Curry Corner	2024-04-01	Frozen Mozzarella	Dairy	48	18.68
+Alice	Curry Corner	2023-08-02	Frozen Chicken Wings	Meat	7	42.27
+Diana	Pasta Palace	2024-03-17	Frozen Beef Patty	Meat	61	25.72
+Alice	Sushi Central	2023-12-26	Frozen Beef Patty	Meat	35	41.24
+Diana	Burger Barn	2024-04-22	Frozen Peas	Vegetables	72	49.38
+Bob	Curry Corner	2024-05-27	Frozen Berries	Fruits	35	14.55
+Alice	Sushi Central	2023-03-21	Frozen Mozzarella	Dairy	61	5.88
+Diana	Pasta Palace	2023-09-03	Frozen Chicken Wings	Meat	33	31.77
+Diana	Burger Barn	2024-05-06	Frozen Chicken Wings	Meat	1	25.95
+Carlos	Sushi Central	2023-12-25	Frozen Salmon	Seafood	52	9.67
+Alice	Pizza Planet	2023-11-25	Frozen Broccoli	Vegetables	46	25.14
+Alice	Pizza Planet	2024-06-15	Frozen Salmon	Seafood	2	46.83
+Diana	Burger Barn	2023-04-15	Frozen Peas	Vegetables	79	13.25
+Diana	Pasta Palace	2023-07-17	Frozen French Fries	Snacks	34	44.98
+Carlos	Curry Corner	2024-06-19	Frozen Chicken Wings	Meat	32	14.88
+Diana	Curry Corner	2023-01-09	Frozen Chicken Wings	Meat	22	11.12
+Carlos	Pasta Palace	2023-02-22	Frozen Salmon	Seafood	59	14.37
+Carlos	Sushi Central	2023-12-26	Frozen Beef Patty	Meat	8	22.01
+Alice	Curry Corner	2024-01-23	Frozen Broccoli	Vegetables	11	14.83
+Carlos	Pizza Planet	2023-01-20	Frozen French Fries	Snacks	15	34.71
+Alice	Pizza Planet	2023-10-22	Frozen Peas	Vegetables	36	9.6
+Bob	Pizza Planet	2023-12-22	Frozen Chicken Wings	Meat	36	42.85
+Diana	Pizza Planet	2024-01-17	Frozen Peas	Vegetables	34	31.55
+Carlos	Pizza Planet	2023-06-08	Frozen Peas	Vegetables	71	11.73
+Bob	Burger Barn	2023-05-18	Frozen Chicken Wings	Meat	38	27.2
+Bob	Curry Corner	2023-02-23	Frozen Salmon	Seafood	68	21.88
+Diana	Pasta Palace	2023-11-09	Frozen Salmon	Seafood	34	23.49
+Diana	Sushi Central	2023-08-18	Frozen Berries	Fruits	83	32.1
+Carlos	Pizza Planet	2024-01-01	Frozen Mozzarella	Dairy	91	45.9
+Carlos	Curry Corner	2024-06-08	Frozen Beef Patty	Meat	76	46.7
+Diana	Burger Barn	2023-08-06	Frozen Chicken Wings	Meat	29	20.01
+Diana	Sushi Central	2023-12-18	Frozen Peas	Vegetables	23	37.57
+Diana	Curry Corner	2023-01-16	Frozen Peas	Vegetables	26	45.79
+Alice	Pizza Planet	2023-02-13	Frozen Berries	Fruits	31	42.89
+Diana	Burger Barn	2023-03-12	Frozen Salmon	Seafood	82	15.21
+Alice	Sushi Central	2023-06-03	Frozen Berries	Fruits	66	6.29
+Alice	Burger Barn	2023-04-23	Frozen French Fries	Snacks	22	49.75
+Alice	Pizza Planet	2024-04-16	Frozen Peas	Vegetables	39	21.27
+Bob	Burger Barn	2024-05-08	Frozen Broccoli	Vegetables	89	28.96
+Carlos	Pasta Palace	2023-07-10	Frozen Peas	Vegetables	31	9.97
+Bob	Burger Barn	2024-02-13	Frozen French Fries	Snacks	99	36.55
+Alice	Pizza Planet	2023-12-21	Frozen Salmon	Seafood	91	23.94
+Diana	Pasta Palace	2023-11-01	Frozen Broccoli	Vegetables	18	9.53
+Diana	Pasta Palace	2023-07-09	Frozen Beef Patty	Meat	54	29.22
+Bob	Sushi Central	2023-08-05	Frozen Peas	Vegetables	17	29.24
+Alice	Pasta Palace	2024-05-28	Frozen Broccoli	Vegetables	14	10.5
+Bob	Curry Corner	2023-02-11	Frozen Mozzarella	Dairy	100	27.03
+Diana	Sushi Central	2023-09-20	Frozen Chicken Wings	Meat	61	22.26
+Diana	Pizza Planet	2024-03-11	Frozen French Fries	Snacks	82	35.9
+Bob	Burger Barn	2023-11-10	Frozen Salmon	Seafood	83	33.27
+Bob	Pizza Planet	2024-02-25	Frozen Berries	Fruits	28	38.34
+Carlos	Pizza Planet	2023-07-24	Frozen French Fries	Snacks	73	14.85
+Diana	Pasta Palace	2023-02-09	Frozen French Fries	Snacks	60	15.89
+Bob	Curry Corner	2023-11-22	Frozen Broccoli	Vegetables	82	35.39
+Alice	Sushi Central	2023-07-23	Frozen Mozzarella	Dairy	76	38.87
+Carlos	Pasta Palace	2023-06-24	Frozen Peas	Vegetables	11	48.63
+Alice	Pizza Planet	2023-03-26	Frozen Beef Patty	Meat	35	8.71
+Carlos	Pizza Planet	2024-01-04	Frozen Peas	Vegetables	78	28.66
+Bob	Pizza Planet	2024-06-16	Frozen Berries	Fruits	90	16.48
+Carlos	Pizza Planet	2024-06-19	Frozen Peas	Vegetables	36	43.49
+Diana	Pizza Planet	2023-02-11	Frozen Berries	Fruits	11	16.79
+Alice	Pizza Planet	2023-07-12	Frozen Broccoli	Vegetables	27	29.0
+Bob	Sushi Central	2024-06-08	Frozen Broccoli	Vegetables	53	18.52
+Bob	Pasta Palace	2024-03-02	Frozen Chicken Wings	Meat	50	37.55
+Bob	Sushi Central	2023-07-30	Frozen Beef Patty	Meat	88	42.02
+Carlos	Curry Corner	2024-06-16	Frozen Broccoli	Vegetables	45	24.12
+Diana	Burger Barn	2024-05-23	Frozen Berries	Fruits	71	22.65
+Carlos	Sushi Central	2023-01-19	Frozen Berries	Fruits	25	42.18
+Diana	Burger Barn	2023-09-05	Frozen French Fries	Snacks	86	43.61
+Carlos	Curry Corner	2023-02-11	Frozen French Fries	Snacks	28	35.64
+Alice	Pasta Palace	2024-04-13	Frozen Berries	Fruits	26	13.94
+Bob	Sushi Central	2023-11-24	Frozen Beef Patty	Meat	52	13.54
+Bob	Sushi Central	2024-01-11	Frozen Mozzarella	Dairy	14	30.39
+Diana	Burger Barn	2024-03-16	Frozen Berries	Fruits	81	37.52
+Alice	Burger Barn	2023-01-24	Frozen Broccoli	Vegetables	46	11.84
+Bob	Pizza Planet	2023-11-07	Frozen Berries	Fruits	21	43.83
+Carlos	Burger Barn	2023-09-12	Frozen Beef Patty	Meat	79	40.07
+Alice	Curry Corner	2024-06-09	Frozen Mozzarella	Dairy	30	15.21
+Bob	Pizza Planet	2023-01-22	Frozen Chicken Wings	Meat	27	8.61
+Alice	Burger Barn	2023-01-05	Frozen Peas	Vegetables	29	6.15
+Carlos	Sushi Central	2023-03-31	Frozen Beef Patty	Meat	96	28.4
+Carlos	Curry Corner	2023-12-04	Frozen Beef Patty	Meat	87	8.41
+Bob	Curry Corner	2023-05-18	Frozen Salmon	Seafood	58	40.77
+Diana	Sushi Central	2024-06-05	Frozen Broccoli	Vegetables	56	29.2
+Bob	Burger Barn	2024-02-21	Frozen Chicken Wings	Meat	68	29.72
+Bob	Pasta Palace	2023-11-02	Frozen French Fries	Snacks	44	8.83
+Diana	Sushi Central	2023-03-04	Frozen Salmon	Seafood	64	44.84
+Diana	Burger Barn	2023-12-15	Frozen French Fries	Snacks	68	12.18
+Bob	Curry Corner	2023-09-10	Frozen Chicken Wings	Meat	96	35.46
+Diana	Burger Barn	2023-04-09	Frozen Mozzarella	Dairy	92	17.26
+Alice	Pasta Palace	2023-11-30	Frozen Chicken Wings	Meat	64	39.3
+Alice	Burger Barn	2023-05-20	Frozen Peas	Vegetables	84	7.48
+Alice	Pizza Planet	2023-01-31	Frozen French Fries	Snacks	4	14.42
+Carlos	Burger Barn	2024-01-05	Frozen Chicken Wings	Meat	85	44.16
+Diana	Curry Corner	2023-02-06	Frozen Peas	Vegetables	52	11.93
+Diana	Curry Corner	2023-03-21	Frozen French Fries	Snacks	24	46.29
+Diana	Sushi Central	2023-11-26	Frozen Salmon	Seafood	94	46.78
+Diana	Sushi Central	2023-01-03	Frozen Mozzarella	Dairy	56	11.57
+Alice	Sushi Central	2023-07-12	Frozen Broccoli	Vegetables	10	8.4
+Bob	Pasta Palace	2023-12-10	Frozen Salmon	Seafood	5	16.19
+Bob	Pizza Planet	2024-04-26	Frozen Broccoli	Vegetables	70	11.01
+Alice	Burger Barn	2023-10-17	Frozen Beef Patty	Meat	52	34.94
+Diana	Burger Barn	2023-06-27	Frozen Peas	Vegetables	53	22.27
+Diana	Pasta Palace	2024-03-25	Frozen Broccoli	Vegetables	33	12.78
+Diana	Pasta Palace	2024-05-03	Frozen Berries	Fruits	46	6.98
+Carlos	Sushi Central	2023-07-19	Frozen Mozzarella	Dairy	30	47.26
+Diana	Pasta Palace	2023-05-18	Frozen Mozzarella	Dairy	32	37.27
+Diana	Sushi Central	2024-01-29	Frozen Mozzarella	Dairy	86	36.82
+Bob	Pasta Palace	2023-01-02	Frozen Mozzarella	Dairy	90	40.61
+Alice	Burger Barn	2023-11-23	Frozen Berries	Fruits	55	43.81
+Alice	Pasta Palace	2023-05-26	Frozen French Fries	Snacks	12	28.43
+Carlos	Curry Corner	2023-08-02	Frozen Broccoli	Vegetables	20	39.53
+Carlos	Burger Barn	2024-04-01	Frozen Mozzarella	Dairy	66	19.18
+Diana	Pizza Planet	2024-01-01	Frozen Berries	Fruits	35	37.2
+Bob	Pasta Palace	2024-02-16	Frozen Broccoli	Vegetables	2	40.69
+Alice	Pasta Palace	2023-12-31	Frozen Mozzarella	Dairy	64	19.89
+Diana	Pasta Palace	2023-09-30	Frozen Broccoli	Vegetables	23	44.37
+Bob	Curry Corner	2023-10-01	Frozen Salmon	Seafood	83	10.25
+Carlos	Pizza Planet	2024-02-04	Frozen Salmon	Seafood	26	34.73
+Bob	Burger Barn	2023-02-18	Frozen Beef Patty	Meat	79	11.32
+Diana	Curry Corner	2024-02-20	Frozen Beef Patty	Meat	42	19.38
+Alice	Pizza Planet	2023-10-03	Frozen Peas	Vegetables	85	33.57
+Alice	Burger Barn	2023-09-22	Frozen Peas	Vegetables	76	9.88
+Carlos	Pizza Planet	2023-04-20	Frozen French Fries	Snacks	82	49.02
+Bob	Sushi Central	2024-04-05	Frozen Chicken Wings	Meat	74	18.74
+Alice	Curry Corner	2023-07-01	Frozen Salmon	Seafood	13	24.76
+Alice	Burger Barn	2023-08-26	Frozen French Fries	Snacks	10	14.57
+Alice	Curry Corner	2023-02-13	Frozen Salmon	Seafood	96	7.56
+Alice	Pasta Palace	2023-03-17	Frozen Broccoli	Vegetables	46	40.04
+Diana	Burger Barn	2023-12-26	Frozen Berries	Fruits	58	5.52
+Alice	Pizza Planet	2023-06-28	Frozen Mozzarella	Dairy	20	10.71
+Diana	Sushi Central	2023-12-29	Frozen French Fries	Snacks	73	9.4
+Alice	Curry Corner	2024-02-20	Frozen Beef Patty	Meat	29	45.36
+Diana	Sushi Central	2023-05-08	Frozen Berries	Fruits	61	13.47
+Carlos	Curry Corner	2023-01-14	Frozen Chicken Wings	Meat	45	19.43
+Carlos	Sushi Central	2023-03-19	Frozen French Fries	Snacks	27	44.96
+Bob	Curry Corner	2024-05-20	Frozen Peas	Vegetables	20	14.15
+Bob	Sushi Central	2024-05-15	Frozen Broccoli	Vegetables	26	36.33
+Alice	Curry Corner	2023-09-02	Frozen Berries	Fruits	73	37.48
+Diana	Burger Barn	2023-04-04	Frozen Chicken Wings	Meat	84	13.94
+Diana	Sushi Central	2023-12-20	Frozen Berries	Fruits	52	17.73
+Bob	Sushi Central	2024-03-28	Frozen Mozzarella	Dairy	85	14.91
+Bob	Curry Corner	2023-06-15	Frozen Berries	Fruits	26	41.33
+Carlos	Sushi Central	2023-01-14	Frozen French Fries	Snacks	60	39.01
+Diana	Pizza Planet	2023-12-23	Frozen Chicken Wings	Meat	84	27.72
+Alice	Pizza Planet	2023-06-26	Frozen Salmon	Seafood	74	32.93
+Diana	Pasta Palace	2023-10-29	Frozen Mozzarella	Dairy	68	26.54
+Carlos	Pizza Planet	2023-01-07	Frozen Berries	Fruits	87	10.52
+Alice	Pasta Palace	2024-01-22	Frozen Chicken Wings	Meat	71	11.14
+Carlos	Burger Barn	2023-06-09	Frozen Beef Patty	Meat	59	26.71
+Alice	Pasta Palace	2024-02-13	Frozen Peas	Vegetables	43	27.76
+Carlos	Burger Barn	2024-05-19	Frozen Mozzarella	Dairy	9	23.8
+Diana	Pasta Palace	2024-03-02	Frozen Salmon	Seafood	92	37.91
+Bob	Curry Corner	2023-07-17	Frozen Beef Patty	Meat	43	30.07
+Carlos	Sushi Central	2023-06-02	Frozen Berries	Fruits	98	22.13
+Carlos	Pizza Planet	2024-01-21	Frozen Chicken Wings	Meat	55	32.89
+Bob	Pizza Planet	2023-11-05	Frozen Berries	Fruits	20	20.14
+Carlos	Sushi Central	2023-05-30	Frozen Mozzarella	Dairy	73	21.51
+Alice	Pasta Palace	2023-01-05	Frozen French Fries	Snacks	89	38.32
+Bob	Burger Barn	2024-02-22	Frozen Chicken Wings	Meat	81	38.42
+Diana	Burger Barn	2023-07-26	Frozen Beef Patty	Meat	85	31.33
+Alice	Pizza Planet	2023-07-01	Frozen Broccoli	Vegetables	36	47.09
+Carlos	Pasta Palace	2024-03-27	Frozen Chicken Wings	Meat	21	39.2
+Bob	Pizza Planet	2024-04-15	Frozen Mozzarella	Dairy	85	7.54
+Carlos	Burger Barn	2023-11-16	Frozen Peas	Vegetables	35	35.97
+Diana	Pasta Palace	2024-05-18	Frozen Beef Patty	Meat	100	41.56
+Carlos	Pizza Planet	2023-08-03	Frozen Salmon	Seafood	30	22.48
+Diana	Sushi Central	2024-05-03	Frozen French Fries	Snacks	96	23.41
+Diana	Pasta Palace	2024-03-08	Frozen Beef Patty	Meat	66	34.99
+Diana	Sushi Central	2023-04-18	Frozen Beef Patty	Meat	58	19.69
+Carlos	Burger Barn	2023-11-30	Frozen Mozzarella	Dairy	90	17.58
+Carlos	Pizza Planet	2023-07-08	Frozen Chicken Wings	Meat	31	21.79
+Diana	Pizza Planet	2024-05-06	Frozen Salmon	Seafood	59	22.37
+Diana	Pizza Planet	2023-12-09	Frozen French Fries	Snacks	55	10.1
+Alice	Pasta Palace	2023-06-25	Frozen French Fries	Snacks	4	27.12
+Alice	Pizza Planet	2023-06-08	Frozen Berries	Fruits	21	29.78
+Bob	Pasta Palace	2024-05-28	Frozen Chicken Wings	Meat	5	30.4
+Bob	Pizza Planet	2023-08-22	Frozen Beef Patty	Meat	51	41.76
+Carlos	Pizza Planet	2024-01-20	Frozen Beef Patty	Meat	100	13.4
+Diana	Sushi Central	2023-03-04	Frozen Berries	Fruits	86	23.81
+Alice	Curry Corner	2024-04-01	Frozen Beef Patty	Meat	61	46.98
+Bob	Curry Corner	2024-04-06	Frozen Beef Patty	Meat	99	31.73
+Diana	Sushi Central	2023-01-06	Frozen Peas	Vegetables	100	48.38
+Bob	Curry Corner	2023-05-29	Frozen Berries	Fruits	83	13.9
+Carlos	Curry Corner	2024-06-22	Frozen Berries	Fruits	63	29.44
+Diana	Pasta Palace	2024-03-30	Frozen Broccoli	Vegetables	93	36.27
+Bob	Curry Corner	2024-02-21	Frozen Berries	Fruits	50	5.0
+Carlos	Pasta Palace	2024-05-05	Frozen Berries	Fruits	54	20.12
+Bob	Burger Barn	2023-06-02	Frozen Mozzarella	Dairy	2	38.47
+Bob	Sushi Central	2023-12-13	Frozen Salmon	Seafood	32	44.11
+Alice	Pasta Palace	2024-05-09	Frozen Beef Patty	Meat	73	11.88
+Carlos	Burger Barn	2023-12-30	Frozen Mozzarella	Dairy	11	31.54
+Carlos	Pizza Planet	2024-06-24	Frozen Mozzarella	Dairy	2	10.45
+Alice	Pasta Palace	2024-02-19	Frozen Mozzarella	Dairy	62	38.07
+Carlos	Sushi Central	2024-02-22	Frozen Chicken Wings	Meat	20	45.64
+Carlos	Pizza Planet	2024-05-07	Frozen Peas	Vegetables	21	35.99
+Bob	Burger Barn	2024-06-23	Frozen Chicken Wings	Meat	63	16.54
+Bob	Pizza Planet	2023-08-02	Frozen Salmon	Seafood	49	31.12
+Diana	Burger Barn	2023-09-29	Frozen Broccoli	Vegetables	71	40.42
+Diana	Curry Corner	2023-10-18	Frozen Beef Patty	Meat	83	15.13
+Diana	Curry Corner	2023-03-15	Frozen Broccoli	Vegetables	56	21.68
+Bob	Burger Barn	2024-03-29	Frozen Salmon	Seafood	69	9.91
+Alice	Sushi Central	2024-05-16	Frozen French Fries	Snacks	50	32.03
+Bob	Pasta Palace	2024-06-13	Frozen Beef Patty	Meat	38	26.87
+Diana	Burger Barn	2023-04-14	Frozen Peas	Vegetables	41	38.27
+Carlos	Curry Corner	2024-04-13	Frozen French Fries	Snacks	9	5.07
+Diana	Curry Corner	2023-09-29	Frozen Chicken Wings	Meat	37	13.23
+Diana	Pasta Palace	2023-09-27	Frozen Berries	Fruits	50	24.73
+Carlos	Pizza Planet	2023-09-02	Frozen Broccoli	Vegetables	81	6.0
+Carlos	Pasta Palace	2023-01-03	Frozen Broccoli	Vegetables	15	38.93
+Carlos	Curry Corner	2023-07-25	Frozen Chicken Wings	Meat	84	34.12
+Carlos	Burger Barn	2023-03-09	Frozen Salmon	Seafood	43	46.12
+Carlos	Pasta Palace	2024-03-07	Frozen Broccoli	Vegetables	51	32.23
+Diana	Pasta Palace	2024-04-11	Frozen Beef Patty	Meat	91	9.31
+Carlos	Sushi Central	2023-06-17	Frozen Broccoli	Vegetables	5	15.0
+Alice	Pasta Palace	2024-01-08	Frozen Berries	Fruits	6	24.43
+Bob	Pasta Palace	2024-06-13	Frozen Broccoli	Vegetables	44	21.22
+Carlos	Sushi Central	2023-02-17	Frozen Broccoli	Vegetables	96	33.61
+Alice	Burger Barn	2023-07-23	Frozen Beef Patty	Meat	38	41.99
+Alice	Sushi Central	2024-02-14	Frozen Peas	Vegetables	10	45.93
+Carlos	Pizza Planet	2023-02-02	Frozen Beef Patty	Meat	26	10.1
+Diana	Curry Corner	2023-08-09	Frozen Chicken Wings	Meat	27	24.15
+Bob	Pizza Planet	2024-05-17	Frozen Berries	Fruits	39	24.32
+Bob	Curry Corner	2023-08-22	Frozen Peas	Vegetables	36	42.68
+Carlos	Pasta Palace	2023-11-28	Frozen Peas	Vegetables	52	10.44
+Alice	Pasta Palace	2023-06-23	Frozen Berries	Fruits	65	46.04
+Alice	Curry Corner	2024-01-31	Frozen Chicken Wings	Meat	2	13.8
+Bob	Pasta Palace	2023-08-14	Frozen French Fries	Snacks	32	6.04
+Diana	Pizza Planet	2023-10-30	Frozen Peas	Vegetables	100	14.84
+Diana	Burger Barn	2024-06-11	Frozen Mozzarella	Dairy	94	25.53
+Carlos	Pizza Planet	2023-06-07	Frozen Peas	Vegetables	10	29.16
+Alice	Pasta Palace	2023-10-31	Frozen French Fries	Snacks	59	13.63
+Diana	Sushi Central	2023-12-08	Frozen Chicken Wings	Meat	3	48.09
+Bob	Burger Barn	2023-05-29	Frozen Beef Patty	Meat	3	25.6
+Diana	Pizza Planet	2023-08-27	Frozen Broccoli	Vegetables	64	33.81
+Diana	Sushi Central	2024-04-08	Frozen French Fries	Snacks	48	8.18
+Diana	Burger Barn	2023-04-24	Frozen Beef Patty	Meat	81	31.56
+Carlos	Sushi Central	2023-12-03	Frozen Chicken Wings	Meat	62	34.89
+Carlos	Sushi Central	2023-01-22	Frozen Berries	Fruits	52	12.27
+Diana	Curry Corner	2024-04-21	Frozen Chicken Wings	Meat	15	29.84
+Diana	Curry Corner	2024-06-24	Frozen Peas	Vegetables	26	28.69
+Alice	Curry Corner	2023-06-28	Frozen Beef Patty	Meat	33	9.68
+Alice	Sushi Central	2023-03-19	Frozen Berries	Fruits	26	19.36
+Carlos	Pizza Planet	2023-09-01	Frozen Berries	Fruits	66	17.78
+Alice	Pizza Planet	2024-02-25	Frozen Chicken Wings	Meat	30	37.33
+Diana	Sushi Central	2023-04-29	Frozen Berries	Fruits	92	24.88
+Carlos	Sushi Central	2023-02-20	Frozen French Fries	Snacks	14	23.58
+Alice	Pizza Planet	2023-09-21	Frozen Broccoli	Vegetables	28	13.98
+Alice	Pasta Palace	2023-11-24	Frozen Mozzarella	Dairy	67	49.92
+Carlos	Sushi Central	2023-03-05	Frozen Chicken Wings	Meat	69	17.17
+Carlos	Sushi Central	2024-06-24	Frozen Salmon	Seafood	41	9.69
+Alice	Pizza Planet	2023-10-20	Frozen Broccoli	Vegetables	16	44.33
+Alice	Burger Barn	2023-12-31	Frozen Mozzarella	Dairy	89	19.12
+Carlos	Pasta Palace	2024-02-14	Frozen Beef Patty	Meat	98	48.85
+Alice	Pasta Palace	2023-01-26	Frozen Mozzarella	Dairy	31	26.19
+Alice	Sushi Central	2023-01-03	Frozen French Fries	Snacks	44	11.74
+Diana	Burger Barn	2023-03-31	Frozen Broccoli	Vegetables	38	49.49
+Bob	Curry Corner	2023-08-12	Frozen Broccoli	Vegetables	69	22.39
+Alice	Curry Corner	2023-07-27	Frozen Salmon	Seafood	16	11.28
+Alice	Curry Corner	2023-02-16	Frozen French Fries	Snacks	63	41.74
+Alice	Curry Corner	2024-04-17	Frozen Mozzarella	Dairy	21	46.74
+Diana	Burger Barn	2023-10-12	Frozen Peas	Vegetables	88	48.59
+Diana	Pasta Palace	2024-02-19	Frozen Broccoli	Vegetables	82	17.76
+Diana	Pasta Palace	2024-05-16	Frozen French Fries	Snacks	59	17.53
+Bob	Sushi Central	2024-05-25	Frozen Berries	Fruits	16	22.26
+Diana	Pizza Planet	2023-03-18	Frozen Peas	Vegetables	67	21.55
+Bob	Sushi Central	2023-06-09	Frozen Berries	Fruits	51	36.15
+Bob	Burger Barn	2023-05-22	Frozen Broccoli	Vegetables	86	32.3
+Carlos	Burger Barn	2024-03-06	Frozen French Fries	Snacks	92	7.91
+Diana	Pizza Planet	2023-06-04	Frozen Broccoli	Vegetables	77	36.77
+Diana	Curry Corner	2024-01-28	Frozen Chicken Wings	Meat	57	41.13
+Alice	Pizza Planet	2024-02-26	Frozen French Fries	Snacks	12	27.99
+Carlos	Sushi Central	2023-10-22	Frozen French Fries	Snacks	56	45.55
+Alice	Burger Barn	2023-05-29	Frozen Mozzarella	Dairy	74	10.63
+Carlos	Pizza Planet	2023-07-16	Frozen Chicken Wings	Meat	29	47.11
+Bob	Burger Barn	2023-04-02	Frozen Chicken Wings	Meat	94	25.76
+Alice	Sushi Central	2023-04-30	Frozen Mozzarella	Dairy	65	29.09
+Diana	Curry Corner	2023-06-29	Frozen Berries	Fruits	72	45.74
+Diana	Burger Barn	2024-03-29	Frozen Mozzarella	Dairy	84	5.52
+Carlos	Curry Corner	2023-02-22	Frozen French Fries	Snacks	71	15.34
+Carlos	Burger Barn	2023-01-06	Frozen French Fries	Snacks	83	27.25
+Alice	Curry Corner	2023-03-06	Frozen French Fries	Snacks	40	9.17
+Diana	Pizza Planet	2023-03-28	Frozen French Fries	Snacks	91	8.91
+Alice	Pizza Planet	2024-05-22	Frozen Broccoli	Vegetables	89	29.93
+Diana	Curry Corner	2024-02-14	Frozen Mozzarella	Dairy	40	31.79
+Bob	Burger Barn	2023-10-23	Frozen Peas	Vegetables	77	43.27
+Alice	Pizza Planet	2024-02-29	Frozen Salmon	Seafood	75	32.23
+Bob	Sushi Central	2023-10-04	Frozen Berries	Fruits	19	7.64
+Carlos	Pasta Palace	2023-05-21	Frozen French Fries	Snacks	84	33.95
+Diana	Curry Corner	2023-10-26	Frozen Broccoli	Vegetables	73	37.89
+Carlos	Pizza Planet	2023-03-18	Frozen Broccoli	Vegetables	53	14.6
+Carlos	Pasta Palace	2023-05-01	Frozen Berries	Fruits	42	7.92
+Alice	Curry Corner	2023-08-24	Frozen French Fries	Snacks	59	16.57
+Bob	Sushi Central	2023-01-18	Frozen Berries	Fruits	58	12.19
+Bob	Sushi Central	2023-05-23	Frozen Beef Patty	Meat	95	42.94
+Diana	Burger Barn	2024-02-06	Frozen Salmon	Seafood	15	25.61
+Alice	Pizza Planet	2023-10-16	Frozen French Fries	Snacks	60	8.81
+Carlos	Burger Barn	2023-10-20	Frozen Mozzarella	Dairy	80	35.97
+Bob	Sushi Central	2024-02-29	Frozen Broccoli	Vegetables	81	19.77
+Bob	Pasta Palace	2023-09-11	Frozen Berries	Fruits	39	44.46
+Carlos	Burger Barn	2024-01-13	Frozen Salmon	Seafood	40	44.28
+Carlos	Sushi Central	2023-06-15	Frozen Chicken Wings	Meat	23	36.23
+Bob	Sushi Central	2024-04-12	Frozen Salmon	Seafood	47	15.61
+Alice	Sushi Central	2023-07-23	Frozen Beef Patty	Meat	25	40.95
+Diana	Burger Barn	2023-06-28	Frozen Beef Patty	Meat	9	41.16
+Diana	Sushi Central	2023-03-11	Frozen Berries	Fruits	98	12.31
+Diana	Sushi Central	2024-06-01	Frozen Beef Patty	Meat	78	47.51
+Carlos	Burger Barn	2024-04-02	Frozen Beef Patty	Meat	41	19.46
+Bob	Curry Corner	2024-04-18	Frozen French Fries	Snacks	5	42.75
+Carlos	Sushi Central	2023-08-17	Frozen Chicken Wings	Meat	18	12.21
+Carlos	Sushi Central	2024-03-17	Frozen Salmon	Seafood	16	30.49
+Bob	Sushi Central	2024-03-18	Frozen Berries	Fruits	50	47.39
+Alice	Curry Corner	2024-01-28	Frozen Berries	Fruits	18	11.7
+Diana	Burger Barn	2023-06-29	Frozen Berries	Fruits	9	38.37
+Carlos	Pizza Planet	2023-07-30	Frozen Berries	Fruits	22	28.03
+Carlos	Pizza Planet	2023-08-24	Frozen Peas	Vegetables	57	32.6
+Carlos	Sushi Central	2023-03-26	Frozen Broccoli	Vegetables	91	14.82
+Diana	Curry Corner	2024-06-14	Frozen Beef Patty	Meat	27	40.79
+Diana	Sushi Central	2024-01-28	Frozen Broccoli	Vegetables	64	9.72
+Alice	Sushi Central	2024-03-22	Frozen Mozzarella	Dairy	86	46.96
+Bob	Burger Barn	2023-08-13	Frozen Beef Patty	Meat	46	35.04
+Carlos	Curry Corner	2023-05-04	Frozen Broccoli	Vegetables	51	23.14
+Bob	Curry Corner	2024-01-23	Frozen Broccoli	Vegetables	74	42.8
+Carlos	Sushi Central	2023-05-28	Frozen Salmon	Seafood	68	13.58
+Diana	Curry Corner	2024-01-25	Frozen Berries	Fruits	98	34.46
+Carlos	Pizza Planet	2023-05-22	Frozen Berries	Fruits	11	37.23
+Carlos	Curry Corner	2023-02-03	Frozen Salmon	Seafood	100	14.93
+Alice	Pizza Planet	2023-08-28	Frozen Peas	Vegetables	60	17.74
+Diana	Sushi Central	2024-06-10	Frozen Chicken Wings	Meat	95	18.31
+Carlos	Curry Corner	2024-06-07	Frozen Berries	Fruits	47	18.81
+Alice	Sushi Central	2024-06-03	Frozen Berries	Fruits	20	46.23
+Diana	Pizza Planet	2023-06-21	Frozen Beef Patty	Meat	75	13.51
+Bob	Curry Corner	2023-09-26	Frozen Berries	Fruits	12	19.85
+Alice	Sushi Central	2023-06-18	Frozen Salmon	Seafood	84	47.9
+Bob	Pasta Palace	2023-02-09	Frozen Mozzarella	Dairy	89	13.7
+Diana	Curry Corner	2023-08-31	Frozen Chicken Wings	Meat	52	11.13
+Carlos	Curry Corner	2023-03-02	Frozen Peas	Vegetables	63	23.43
